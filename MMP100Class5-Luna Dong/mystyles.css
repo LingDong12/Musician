@@ -1,0 +1,35 @@
+
+*{
+	
+	font-family: 'Lugrasimo', cursive;
+}
+html,body{
+	background: #FFC7EA;
+	margin: 100px;
+}
+#menu{
+	margin-top: 100px;
+	width: 100%;
+	height: 30px;
+	color: #CAEDFF;
+	text-align: center;
+
+
+}
+
+#menu a{
+	margin: 400px 0;
+	text-decoration: none;
+	border-right: 3px;
+	font-family: serif;
+	padding-right:800px  ;
+	
+}
+
+h1{
+	font-size: 49px;
+	text-align: center;
+}
+
+
+ 
